@@ -5,7 +5,9 @@ To start hacking,
 
 ```js
 npm install
-
+```
+Then,
+```js
 npm run dev
 ```
 
