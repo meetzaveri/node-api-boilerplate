@@ -4,6 +4,8 @@ A Node API boilerplate including CRUD operations based on MongoDB schema. Used m
 To start hacking,
 
 ```js
+npm install
+
 npm run dev
 ```
 
