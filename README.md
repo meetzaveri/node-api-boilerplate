@@ -1,5 +1,5 @@
 # node-api-boilerplate
-A Node API boilerplate including CRUD operations based on MongoDB schema. Used mLab for MongoDB deployment. 
+A Node API boilerplate based on CRUD operations based on MongoDB schema. Used mLab for MongoDB deployment. 
 
 To start hacking,
 
